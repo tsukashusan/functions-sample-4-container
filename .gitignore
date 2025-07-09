@@ -2,3 +2,6 @@
 .python_packages
 __pycache__
 .venv
+__azurite*
+__blob*
+AzuriteConfig
