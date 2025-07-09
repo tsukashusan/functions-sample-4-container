@@ -1,0 +1,5 @@
+openai
+azure-identity
+python-dotenv
+azure-functions
+azure-monitor-opentelemetry
