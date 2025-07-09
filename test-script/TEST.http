@@ -1,5 +1,5 @@
 @hostname = localhost
-GET /api/HttpExample
+GET /api/HttpExample?name=hoge
 Host: {{hostname}}:7071
 User-Agent: curl/7.64.1
 Content-Type: application/json
