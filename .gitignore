@@ -5,3 +5,4 @@ __pycache__
 __azurite*
 __blob*
 AzuriteConfig
+local-build.zsh
