@@ -1,0 +1,15 @@
+local.settings.json
+__blobstorage__
+__pycache__
+__pypackages__
+__azurite*
+_env
+.env
+.devcontainer
+.venv
+.vscode
+.git
+.gitignore
+Dockerfile
+README.markdo
+test-script

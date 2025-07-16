@@ -1,0 +1,12 @@
+@hostname = localhost
+@port = 443
+GET /api/HttpExample?name=hoge
+Host: {{hostname}}:{{port}}
+User-Agent: curl/7.64.1
+Content-Type: application/json
+
+###
+GET /api/HttpExample
+Host: {{hostname}}:{{port}}
+User-Agent: curl/7.64.1
+Content-Type: application/json

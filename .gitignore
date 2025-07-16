@@ -1,0 +1,9 @@
+.env
+.python_packages
+__pycache__
+.venv
+__azurite*
+__blob*
+AzuriteConfig
+local-build.zsh
+local-build copy.zsh
